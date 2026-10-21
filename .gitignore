@@ -1,2 +1,13 @@
 .DS_Store
 .ipynb_checkpoints/
+
+# Local university forms
+/sylabus_quantecon_2027_pl.docx
+/sylabus_quantecon_2027_en.docx
+
+# LaTeX build files
+*.aux
+*.fdb_latexmk
+*.fls
+*.log
+*.out
